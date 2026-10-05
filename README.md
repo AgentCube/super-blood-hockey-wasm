@@ -1,6 +1,6 @@
 # Super Blood Hockey WASM
 
-A web port of [Super Blood Hockey](https://store.steampowered.com/app/532820/Super_Blood_Hockey/).
+A web port of [Super Blood Hockey](https://store.steampowered.com/app/532190/Super_Blood_Hockey/).
 
 **Play:** [https://agentcube.github.io/super-blood-hockey-wasm](https://agentcube.github.io/super-blood-hockey-wasm)
 
